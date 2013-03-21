@@ -1,0 +1,2393 @@
+Getting and Processing Spam Images : 
+             FileName: './spam/05D89BDjGS.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 142825
+           AverageRGB: 233.2093
+             FileSize: 42483
+                Width: 536
+               Height: 443
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/0VR9N4.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 76359
+           AverageRGB: 20.3846
+             FileSize: 30125
+                Width: 551
+               Height: 188
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/0nf2Sd2Za7.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 134925
+           AverageRGB: 233.3166
+             FileSize: 44989
+                Width: 525
+               Height: 468
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/0ti7JlPSn5.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 117364
+           AverageRGB: 245.5043
+             FileSize: 20306
+                Width: 515
+               Height: 287
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/0uS3tts9xP.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 132554
+           AverageRGB: 246.4129
+             FileSize: 21198
+                Width: 542
+               Height: 303
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/182XFG.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 225535
+           AverageRGB: 7.1991
+             FileSize: 38360
+                Width: 688
+               Height: 397
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/1LU5LAfMhy.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 124977
+           AverageRGB: 246.1570
+             FileSize: 19738
+                Width: 547
+               Height: 290
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/1Ziip23pLK.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 147160
+           AverageRGB: 240.3332
+             FileSize: 38767
+                Width: 545
+               Height: 463
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/1k05FilsPQ.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 123516
+           AverageRGB: 231.5981
+             FileSize: 42135
+                Width: 501
+               Height: 437
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/1s5cNQm8Ig.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 102219
+           AverageRGB: 244.4833
+             FileSize: 20164
+                Width: 505
+               Height: 264
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/21HlnMZdf4.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 112474
+           AverageRGB: 230.2917
+             FileSize: 44434
+                Width: 526
+               Height: 427
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/23JCDM8.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 77224
+           AverageRGB: 20.0747
+             FileSize: 30648
+                Width: 553
+               Height: 191
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/2CRYMUxKJa.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 154546
+           AverageRGB: 245.0716
+             FileSize: 29165
+                Width: 521
+               Height: 422
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/2Trb4akgIN.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 125809
+           AverageRGB: 246.1542
+             FileSize: 21056
+                Width: 549
+               Height: 291
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/30ssAC8a9d.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 136275
+           AverageRGB: 232.8907
+             FileSize: 42148
+                Width: 501
+               Height: 465
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/31HV90G6.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 84812
+           AverageRGB: 18.7224
+             FileSize: 30787
+                Width: 558
+               Height: 203
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/32FQXG.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 240901
+           AverageRGB: 6.7434
+             FileSize: 38695
+                Width: 705
+               Height: 415
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/34e14exJT8.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 21357
+           AverageRGB: 222.4669
+             FileSize: 49258
+                Width: 361
+               Height: 409
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/3dZWE0FjvG.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 41825
+           AverageRGB: 234.0673
+             FileSize: 42504
+                Width: 400
+               Height: 352
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/3e5VQKygiz.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 130660
+           AverageRGB: 246.4157
+             FileSize: 20955
+                Width: 536
+               Height: 307
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/42i5nQdwJe.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 126374
+           AverageRGB: 246.1854
+             FileSize: 20980
+                Width: 538
+               Height: 298
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/482qux1.jpg'
+    MostFrequentColor: [201 187 249]
+       ColorFrequency: 3828
+           AverageRGB: 186.9592
+             FileSize: 59892
+                Width: 298
+               Height: 517
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/4Eg4s6AtLj.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 89122
+           AverageRGB: 240.9195
+             FileSize: 26330
+                Width: 512
+               Height: 276
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/4VUoeijysq.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 127322
+           AverageRGB: 246.0769
+             FileSize: 20372
+                Width: 541
+               Height: 291
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/4g5H7SrjjI.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 119470
+           AverageRGB: 245.6333
+             FileSize: 20536
+                Width: 546
+               Height: 274
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/50WgVqGONr.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 139407
+           AverageRGB: 233.5445
+             FileSize: 42052
+                Width: 548
+               Height: 446
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/53FXhSIXZo.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 100357
+           AverageRGB: 228.7100
+             FileSize: 47384
+                Width: 503
+               Height: 432
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/5I1PsZ2OwO.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 70252
+           AverageRGB: 238.4437
+             FileSize: 38640
+                Width: 527
+               Height: 331
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/5gGg3rEU3u.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 21821
+           AverageRGB: 222.8933
+             FileSize: 47683
+                Width: 356
+               Height: 403
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/5oVH4US6Gb.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 140644
+           AverageRGB: 233.0852
+             FileSize: 41471
+                Width: 517
+               Height: 453
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/6G6Vx4rm6j.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 125211
+           AverageRGB: 232.0143
+             FileSize: 41088
+                Width: 506
+               Height: 439
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/6IZZ1R.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 98958
+           AverageRGB: 16.4963
+             FileSize: 30650
+                Width: 557
+               Height: 228
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/6ouAmNXAM2.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 155404
+           AverageRGB: 234.8493
+             FileSize: 40096
+                Width: 549
+               Height: 450
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/6vooC40hjp.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 145152
+           AverageRGB: 233.6352
+             FileSize: 42469
+                Width: 536
+               Height: 453
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/7LPPr6mBXx.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 120386
+           AverageRGB: 231.2423
+             FileSize: 40919
+                Width: 504
+               Height: 424
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/7WX2A6TH5U.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 136298
+           AverageRGB: 233.6848
+             FileSize: 41221
+                Width: 542
+               Height: 446
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/7ovna98A6u.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 111636
+           AverageRGB: 242.7024
+             FileSize: 25590
+                Width: 536
+               Height: 300
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/8AewOOmme9.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 122327
+           AverageRGB: 231.2097
+             FileSize: 40132
+                Width: 508
+               Height: 421
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/8BrqewdeSW.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 138054
+           AverageRGB: 233.7003
+             FileSize: 41882
+                Width: 549
+               Height: 441
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/8S77Mbsc8a.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 123317
+           AverageRGB: 232.5839
+             FileSize: 39668
+                Width: 513
+               Height: 427
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/91V2OH.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 105889
+           AverageRGB: 20.5722
+             FileSize: 42399
+                Width: 563
+               Height: 258
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/9LPSEZpPVv.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 141933
+           AverageRGB: 232.9643
+             FileSize: 38565
+                Width: 543
+               Height: 430
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/9cbBSUETMV.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 124007
+           AverageRGB: 232.2268
+             FileSize: 44320
+                Width: 506
+               Height: 459
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/9dHR143ThX.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 124518
+           AverageRGB: 246.1376
+             FileSize: 19855
+                Width: 530
+               Height: 299
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/9yy1hEUoy9.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 32441
+           AverageRGB: 222.4719
+             FileSize: 48632
+                Width: 362
+               Height: 407
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/AKSVEOUMX5.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 27524
+           AverageRGB: 235.2989
+             FileSize: 33569
+                Width: 404
+               Height: 256
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/AN555Y3uvJ.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 22644
+           AverageRGB: 222.8323
+             FileSize: 47282
+                Width: 358
+               Height: 404
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/AV7XBRB7.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 107864
+           AverageRGB: 15.5638
+             FileSize: 31307
+                Width: 549
+               Height: 248
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/Age.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 110927
+           AverageRGB: 237.7229
+             FileSize: 58938
+                Width: 424
+               Height: 432
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/Answers.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 395442
+           AverageRGB: 239.6897
+             FileSize: 131157
+                Width: 552
+               Height: 964
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/Answers1.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 88924
+           AverageRGB: 242.3209
+             FileSize: 39241
+                Width: 444
+               Height: 324
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/B9PQfhiavl.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 128898
+           AverageRGB: 246.2231
+             FileSize: 20344
+                Width: 528
+               Height: 303
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/aF4bCWmayi.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 78187
+           AverageRGB: 243.6819
+             FileSize: 30563
+                Width: 508
+               Height: 281
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/aZSlU87zvH.jpg'
+    MostFrequentColor: [252 254 251]
+       ColorFrequency: 139189
+           AverageRGB: 233.9790
+             FileSize: 39683
+                Width: 501
+               Height: 469
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/aaas.jpg'
+    MostFrequentColor: [254 254 254]
+       ColorFrequency: 15960
+           AverageRGB: 201.2311
+             FileSize: 19905
+                Width: 356
+               Height: 310
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/abigail.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 60236
+           AverageRGB: 225.5322
+             FileSize: 36105
+                Width: 421
+               Height: 257
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/abstinent.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 195649
+           AverageRGB: 242.0780
+             FileSize: 53104
+                Width: 832
+               Height: 365
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/accordingly.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 245392
+           AverageRGB: 239.3803
+             FileSize: 61437
+                Width: 896
+               Height: 372
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/ad-lib.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 81667
+           AverageRGB: 235.8036
+             FileSize: 43433
+                Width: 480
+               Height: 367
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/adhesion.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 141301
+           AverageRGB: 238.3027
+             FileSize: 53381
+                Width: 581
+               Height: 413
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/admin.jpg'
+    MostFrequentColor: [246 251 245]
+       ColorFrequency: 3951
+           AverageRGB: 236.1098
+             FileSize: 17430
+                Width: 328
+               Height: 304
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/admixtureassist.JPG'
+    MostFrequentColor: [1 1 1]
+       ColorFrequency: 87946
+           AverageRGB: 62.5377
+             FileSize: 21074
+                Width: 431
+               Height: 405
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/adpcvwp.jpg'
+    MostFrequentColor: [205 198 180]
+       ColorFrequency: 89365
+           AverageRGB: 182.1004
+             FileSize: 36940
+                Width: 383
+               Height: 470
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/adrian.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 44809
+           AverageRGB: 231.7157
+             FileSize: 26056
+                Width: 342
+               Height: 208
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/aeio_62.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 77781
+           AverageRGB: 234.1728
+             FileSize: 53277
+                Width: 491
+               Height: 294
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/affair.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 137188
+           AverageRGB: 234.0851
+             FileSize: 82546
+                Width: 771
+               Height: 393
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/affection.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 171551
+           AverageRGB: 239.2416
+             FileSize: 58237
+                Width: 854
+               Height: 330
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/affirmatively.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 181073
+           AverageRGB: 239.4918
+             FileSize: 63684
+                Width: 646
+               Height: 435
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/agoHur.jpg'
+    MostFrequentColor: [255 255 253]
+       ColorFrequency: 33996
+           AverageRGB: 242.8755
+             FileSize: 18263
+                Width: 372
+               Height: 312
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/agvsnk_527.jpg'
+    MostFrequentColor: [232 248 248]
+       ColorFrequency: 84535
+           AverageRGB: 224.5141
+             FileSize: 58400
+                Width: 602
+               Height: 388
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/aires.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 63727
+           AverageRGB: 232.8082
+             FileSize: 31216
+                Width: 411
+               Height: 236
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/alabama.8.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 84366
+           AverageRGB: 240.5327
+             FileSize: 26274
+                Width: 460
+               Height: 293
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/algaecide.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 48702
+           AverageRGB: 234.3283
+             FileSize: 24443
+                Width: 323
+               Height: 228
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/alliance.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 136554
+           AverageRGB: 231.2685
+             FileSize: 60523
+                Width: 495
+               Height: 455
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/allow.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 65411
+           AverageRGB: 224.9764
+             FileSize: 37280
+                Width: 452
+               Height: 253
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/amp.jpg'
+    MostFrequentColor: [255 255 250]
+       ColorFrequency: 11633
+           AverageRGB: 231.1483
+             FileSize: 73088
+                Width: 488
+               Height: 536
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/an.jpg'
+    MostFrequentColor: [254 250 247]
+       ColorFrequency: 12334
+           AverageRGB: 242.1410
+             FileSize: 50737
+                Width: 608
+               Height: 516
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/anabaptist.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 44809
+           AverageRGB: 231.7157
+             FileSize: 26056
+                Width: 342
+               Height: 208
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/anair.jpg'
+    MostFrequentColor: [254 254 254]
+       ColorFrequency: 44928
+           AverageRGB: 224.5202
+             FileSize: 16599
+                Width: 374
+               Height: 339
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/anair2.jpg'
+    MostFrequentColor: [254 254 254]
+       ColorFrequency: 44928
+           AverageRGB: 224.5202
+             FileSize: 16599
+                Width: 374
+               Height: 339
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/anair3.jpg'
+    MostFrequentColor: [254 254 254]
+       ColorFrequency: 44928
+           AverageRGB: 224.5202
+             FileSize: 16599
+                Width: 374
+               Height: 339
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/antipodean.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 74532
+           AverageRGB: 229.4419
+             FileSize: 35263
+                Width: 453
+               Height: 266
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/any.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 208403
+           AverageRGB: 245.2648
+             FileSize: 68096
+                Width: 512
+               Height: 584
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/anything.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 19918
+           AverageRGB: 238.7504
+             FileSize: 57976
+                Width: 496
+               Height: 512
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/architecture.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 44809
+           AverageRGB: 231.7157
+             FileSize: 26056
+                Width: 342
+               Height: 208
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/architecture2.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 44809
+           AverageRGB: 231.7157
+             FileSize: 26056
+                Width: 342
+               Height: 208
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/are.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 132811
+           AverageRGB: 234.1379
+             FileSize: 62348
+                Width: 412
+               Height: 484
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/armchair.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 71425
+           AverageRGB: 227.6886
+             FileSize: 36234
+                Width: 448
+               Height: 266
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/asserted was.jpg'
+    MostFrequentColor: [255 254 251]
+       ColorFrequency: 17704
+           AverageRGB: 240.6208
+             FileSize: 23809
+                Width: 348
+               Height: 340
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/assurance.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 149835
+           AverageRGB: 239.2283
+             FileSize: 54316
+                Width: 721
+               Height: 364
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/astounding.jpg'
+    MostFrequentColor: [255 255 253]
+       ColorFrequency: 90582
+           AverageRGB: 244.8930
+             FileSize: 17115
+                Width: 376
+               Height: 352
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/attributable.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 127645
+           AverageRGB: 234.1804
+             FileSize: 72738
+                Width: 581
+               Height: 469
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/aubkg12.jpg'
+    MostFrequentColor: [0 17 0]
+       ColorFrequency: 884
+           AverageRGB: 203.3208
+             FileSize: 54771
+                Width: 294
+               Height: 513
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/autobiography.jpg'
+    MostFrequentColor: [187 188 252]
+       ColorFrequency: 182744
+           AverageRGB: 196.7895
+             FileSize: 67301
+                Width: 821
+               Height: 469
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/automotive.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 98304
+           AverageRGB: 233.2969
+             FileSize: 62179
+                Width: 520
+               Height: 413
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/avoidable.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 165862
+           AverageRGB: 238.0479
+             FileSize: 54779
+                Width: 824
+               Height: 303
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/awsc_487.jpg'
+    MostFrequentColor: [247 240 248]
+       ColorFrequency: 148039
+           AverageRGB: 227.9149
+             FileSize: 111368
+                Width: 684
+               Height: 590
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/axfqlprpx.jpg'
+    MostFrequentColor: [173 174 205]
+       ColorFrequency: 72804
+           AverageRGB: 172.2416
+             FileSize: 40322
+                Width: 478
+               Height: 385
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/azul.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 80396
+           AverageRGB: 238.2992
+             FileSize: 45738
+                Width: 444
+               Height: 312
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/baboon.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 185096
+           AverageRGB: 245.9013
+             FileSize: 35241
+                Width: 790
+               Height: 300
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/baedewdj.jpg'
+    MostFrequentColor: [196 164 139]
+       ColorFrequency: 7926
+           AverageRGB: 181.6320
+             FileSize: 83677
+                Width: 440
+               Height: 506
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './spam/spam-00501.gif'
+    MostFrequentColor: [7 7 7]
+       ColorFrequency: 75957
+           AverageRGB: 6.8527
+             FileSize: 5042
+                Width: 546
+               Height: 452
+             BitDepth: 3
+               Format: 'GIF'
+
+             FileName: './spam/spam-00502.gif'
+    MostFrequentColor: [7 7 7]
+       ColorFrequency: 75957
+           AverageRGB: 6.8527
+             FileSize: 5042
+                Width: 546
+               Height: 452
+             BitDepth: 3
+               Format: 'GIF'
+
+             FileName: './spam/spam-00503.gif'
+    MostFrequentColor: [7 7 7]
+       ColorFrequency: 75957
+           AverageRGB: 6.8527
+             FileSize: 5042
+                Width: 546
+               Height: 452
+             BitDepth: 3
+               Format: 'GIF'
+
+             FileName: './spam/spam-00504.gif'
+    MostFrequentColor: [7 7 7]
+       ColorFrequency: 75957
+           AverageRGB: 6.8527
+             FileSize: 5042
+                Width: 546
+               Height: 452
+             BitDepth: 3
+               Format: 'GIF'
+
+             FileName: './spam/spam-00505.gif'
+    MostFrequentColor: [9 9 9]
+       ColorFrequency: 42123
+           AverageRGB: 8.8789
+             FileSize: 8529
+                Width: 500
+               Height: 447
+             BitDepth: 4
+               Format: 'GIF'
+
+             FileName: './spam/spam-00506.gif'
+    MostFrequentColor: [9 9 9]
+       ColorFrequency: 42123
+           AverageRGB: 8.8789
+             FileSize: 8529
+                Width: 500
+               Height: 447
+             BitDepth: 4
+               Format: 'GIF'
+
+             FileName: './spam/spam-00507.gif'
+    MostFrequentColor: [9 9 9]
+       ColorFrequency: 42123
+           AverageRGB: 8.8789
+             FileSize: 8529
+                Width: 500
+               Height: 447
+             BitDepth: 4
+               Format: 'GIF'
+
+             FileName: './spam/spam-00508.gif'
+    MostFrequentColor: [9 9 9]
+       ColorFrequency: 42123
+           AverageRGB: 8.8789
+             FileSize: 8529
+                Width: 500
+               Height: 447
+             BitDepth: 4
+               Format: 'GIF'
+
+             FileName: './spam/spam-00509.gif'
+    MostFrequentColor: [9 9 9]
+       ColorFrequency: 42123
+           AverageRGB: 8.8789
+             FileSize: 8529
+                Width: 500
+               Height: 447
+             BitDepth: 4
+               Format: 'GIF'
+
+             FileName: './spam/spam-00521.gif'
+    MostFrequentColor: [246 246 246]
+       ColorFrequency: 14883
+           AverageRGB: 241.8657
+             FileSize: 4854
+                Width: 372
+               Height: 280
+             BitDepth: 8
+               Format: 'GIF'
+
+Getting and Processing  Natural Images : 
+             FileName: './naturals/ui-bg_gloss-wave_35_f6a828_500x100.png'
+    MostFrequentColor: [63660 47411 20746]
+       ColorFrequency: 9332
+           AverageRGB: 4.2043e+004
+             FileSize: 5867
+                Width: 500
+               Height: 100
+             BitDepth: 48
+               Format: 'png'
+
+             FileName: './naturals/ui-icons_222222_256x240.png'
+    MostFrequentColor: [34 34 34]
+       ColorFrequency: 20480
+           AverageRGB: 34
+             FileSize: 6781
+                Width: 256
+               Height: 240
+             BitDepth: 8
+               Format: 'png'
+
+             FileName: './naturals/ui-icons_228ef1_256x240.png'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 13877
+           AverageRGB: 6.8327
+             FileSize: 4353
+                Width: 256
+               Height: 240
+             BitDepth: 8
+               Format: 'png'
+
+             FileName: './naturals/zzz_00118_42972072e6_m.jpg'
+    MostFrequentColor: [253 244 215]
+       ColorFrequency: 190
+           AverageRGB: 197.3463
+             FileSize: 22932
+                Width: 150
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_0013_4950651bbd_m.jpg'
+    MostFrequentColor: [85 122 148]
+       ColorFrequency: 277
+           AverageRGB: 147.1402
+             FileSize: 18848
+                Width: 157
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_00243_a8054e0b34_m.jpg'
+    MostFrequentColor: [111 132 137]
+       ColorFrequency: 109
+           AverageRGB: 120.2216
+             FileSize: 20634
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_00724_d0ff7beb6c_m.jpg'
+    MostFrequentColor: [5 5 3]
+       ColorFrequency: 528
+           AverageRGB: 65.4808
+             FileSize: 16971
+                Width: 240
+               Height: 156
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_00797_3369ff7b8a_m.jpg'
+    MostFrequentColor: [62 62 64]
+       ColorFrequency: 39
+           AverageRGB: 63.8809
+             FileSize: 21151
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_00806_9b3d519e0c_m.jpg'
+    MostFrequentColor: [255 252 255]
+       ColorFrequency: 38
+           AverageRGB: 86.2853
+             FileSize: 37230
+                Width: 208
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_00981_42e00725f4_m.jpg'
+    MostFrequentColor: [196 211 204]
+       ColorFrequency: 480
+           AverageRGB: 134.8538
+             FileSize: 18699
+                Width: 176
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_01339_3590b2cce1_m.jpg'
+    MostFrequentColor: [124 140 137]
+       ColorFrequency: 9
+           AverageRGB: 143.8859
+             FileSize: 29223
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_01364_c5da02e24f_m.jpg'
+    MostFrequentColor: [17 13 38]
+       ColorFrequency: 2603
+           AverageRGB: 76.2946
+             FileSize: 25767
+                Width: 227
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_01596_242053ffd2_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 105
+           AverageRGB: 127.6477
+             FileSize: 27687
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_01736_2f9f491a0b_m.jpg'
+    MostFrequentColor: [36 74 17]
+       ColorFrequency: 28
+           AverageRGB: 85.6053
+             FileSize: 25951
+                Width: 240
+               Height: 192
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_01750_82a57bfa84_m.jpg'
+    MostFrequentColor: [1 0 0]
+       ColorFrequency: 51
+           AverageRGB: 79.5254
+             FileSize: 41671
+                Width: 240
+               Height: 200
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_02130_d81bff13f9_m.jpg'
+    MostFrequentColor: [139 149 159]
+       ColorFrequency: 98
+           AverageRGB: 99.5738
+             FileSize: 33781
+                Width: 180
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_02438_d5e573b6d7_m.jpg'
+    MostFrequentColor: [4 0 0]
+       ColorFrequency: 34
+           AverageRGB: 142.6739
+             FileSize: 23696
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_02866_cc49ace670_m.jpg'
+    MostFrequentColor: [1 1 1]
+       ColorFrequency: 1094
+           AverageRGB: 90.8302
+             FileSize: 29625
+                Width: 240
+               Height: 239
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_02940_1ff3b5a2da_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 13277
+           AverageRGB: 92.1820
+             FileSize: 20073
+                Width: 240
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_02963_3a65bad3d1_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 7250
+           AverageRGB: 48.0537
+             FileSize: 16408
+                Width: 164
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_03358_ab72e3d8aa_m.jpg'
+    MostFrequentColor: [73 83 95]
+       ColorFrequency: 18
+           AverageRGB: 80.7373
+             FileSize: 25473
+                Width: 240
+               Height: 171
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_03494_536bce6dfa_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 5919
+           AverageRGB: 98.5022
+             FileSize: 31850
+                Width: 185
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_03697_6bea7813ee_m.jpg'
+    MostFrequentColor: [254 255 250]
+       ColorFrequency: 674
+           AverageRGB: 130.4213
+             FileSize: 26915
+                Width: 240
+               Height: 131
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_03702_9c9d6fa1a1_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 632
+           AverageRGB: 121.6165
+             FileSize: 23458
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_03960_ffc150bcd0_m.jpg'
+    MostFrequentColor: [229 220 205]
+       ColorFrequency: 216
+           AverageRGB: 119.3982
+             FileSize: 18237
+                Width: 240
+               Height: 157
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_04167_dda98f63b5_m.jpg'
+    MostFrequentColor: [4 0 0]
+       ColorFrequency: 150
+           AverageRGB: 119.1632
+             FileSize: 38708
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_04529_4dd918ea7c_m.jpg'
+    MostFrequentColor: [117 124 134]
+       ColorFrequency: 206
+           AverageRGB: 101.4414
+             FileSize: 24181
+                Width: 180
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_05129_169d4cd64d_m.jpg'
+    MostFrequentColor: [254 254 254]
+       ColorFrequency: 2800
+           AverageRGB: 109.9979
+             FileSize: 29825
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_05696_55be046f07_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 176
+           AverageRGB: 128.9299
+             FileSize: 30549
+                Width: 240
+               Height: 154
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_05712_95e9d695ce_m.jpg'
+    MostFrequentColor: [79 51 29]
+       ColorFrequency: 198
+           AverageRGB: 102.1891
+             FileSize: 35698
+                Width: 240
+               Height: 176
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_05924_a4ae64d5f9_m.jpg'
+    MostFrequentColor: [255 251 255]
+       ColorFrequency: 40
+           AverageRGB: 113.2166
+             FileSize: 37757
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_06328_df73edb317_m.jpg'
+    MostFrequentColor: [41 137 247]
+       ColorFrequency: 17
+           AverageRGB: 145.1551
+             FileSize: 21969
+                Width: 240
+               Height: 182
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_06503_69e865682e_m.jpg'
+    MostFrequentColor: [11 11 11]
+       ColorFrequency: 296
+           AverageRGB: 92.9521
+             FileSize: 27127
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_06596_436438f71b_m.jpg'
+    MostFrequentColor: [211 238 233]
+       ColorFrequency: 621
+           AverageRGB: 135.4213
+             FileSize: 35214
+                Width: 189
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_06813_1113ae7006_m.jpg'
+    MostFrequentColor: [255 254 255]
+       ColorFrequency: 81
+           AverageRGB: 137.3083
+             FileSize: 20464
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_06989_7330b1745d_m.jpg'
+    MostFrequentColor: [52 70 144]
+       ColorFrequency: 52
+           AverageRGB: 116.6585
+             FileSize: 21721
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_0728_7577e24506_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 4734
+           AverageRGB: 91.1527
+             FileSize: 13844
+                Width: 230
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_07790_2347121110_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 428
+           AverageRGB: 144.5578
+             FileSize: 35119
+                Width: 153
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_07850_54abdfd609_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 3511
+           AverageRGB: 135.8227
+             FileSize: 31596
+                Width: 240
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_08112_5f6e4c65b3_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 986
+           AverageRGB: 94.7301
+             FileSize: 32557
+                Width: 240
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_08123_bcbc042270_m.jpg'
+    MostFrequentColor: [152 157 189]
+       ColorFrequency: 38
+           AverageRGB: 125.2772
+             FileSize: 33796
+                Width: 240
+               Height: 161
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_08126_5f8d353fc2_m.jpg'
+    MostFrequentColor: [0 0 100]
+       ColorFrequency: 20
+           AverageRGB: 107.1607
+             FileSize: 39306
+                Width: 240
+               Height: 162
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_0812_5393f4c3b3_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 190
+           AverageRGB: 100.9379
+             FileSize: 20060
+                Width: 240
+               Height: 152
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_08225_48ed45bdb2_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 6156
+           AverageRGB: 66.5213
+             FileSize: 41824
+                Width: 188
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_08633_94cf3a2dfc_m.jpg'
+    MostFrequentColor: [255 255 250]
+       ColorFrequency: 83
+           AverageRGB: 124.4453
+             FileSize: 29068
+                Width: 175
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_09571_622d814a44_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 339
+           AverageRGB: 101.9766
+             FileSize: 22112
+                Width: 156
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_0969_d70494b85b_m.jpg'
+    MostFrequentColor: [217 234 254]
+       ColorFrequency: 51
+           AverageRGB: 125.1522
+             FileSize: 39636
+                Width: 240
+               Height: 172
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_09714_8395830b01_m.jpg'
+    MostFrequentColor: [11 10 8]
+       ColorFrequency: 35
+           AverageRGB: 89.6067
+             FileSize: 25728
+                Width: 180
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_09760_15c8cdc114_m.jpg'
+    MostFrequentColor: [204 229 249]
+       ColorFrequency: 47
+           AverageRGB: 156.8142
+             FileSize: 20831
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_10302_274493843c_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 8125
+           AverageRGB: 102.8019
+             FileSize: 19732
+                Width: 240
+               Height: 153
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_104_c1a35af827_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 584
+           AverageRGB: 134.6114
+             FileSize: 10783
+                Width: 129
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_10516_65e8559783_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 905
+           AverageRGB: 85.5959
+             FileSize: 28667
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_10963_03507d6116_m.jpg'
+    MostFrequentColor: [127 82 43]
+       ColorFrequency: 668
+           AverageRGB: 82.5532
+             FileSize: 14561
+                Width: 240
+               Height: 183
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_10980_6e10952fae_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 1716
+           AverageRGB: 89.5386
+             FileSize: 32552
+                Width: 240
+               Height: 179
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_11105_9ef55f8725_m.jpg'
+    MostFrequentColor: [19 19 21]
+       ColorFrequency: 13
+           AverageRGB: 112.0187
+             FileSize: 25464
+                Width: 240
+               Height: 158
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_11498_1e7d29ebaa_m.jpg'
+    MostFrequentColor: [3 0 0]
+       ColorFrequency: 21
+           AverageRGB: 103.9535
+             FileSize: 45051
+                Width: 214
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_11528_940838a216_m.jpg'
+    MostFrequentColor: [18 16 19]
+       ColorFrequency: 218
+           AverageRGB: 101.1545
+             FileSize: 29061
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_11563_a1344b0ac3_m.jpg'
+    MostFrequentColor: [7 7 9]
+       ColorFrequency: 113
+           AverageRGB: 105.2749
+             FileSize: 30714
+                Width: 176
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_12020_868427659e_m.jpg'
+    MostFrequentColor: [194 189 170]
+       ColorFrequency: 68
+           AverageRGB: 182.3310
+             FileSize: 15698
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_12216_1ad6f912ae_m.jpg'
+    MostFrequentColor: [217 251 252]
+       ColorFrequency: 178
+           AverageRGB: 101.6139
+             FileSize: 31996
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_12302_98cfad64d1_m.jpg'
+    MostFrequentColor: [2 2 2]
+       ColorFrequency: 921
+           AverageRGB: 135.8881
+             FileSize: 28508
+                Width: 223
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_12374_60d344c325_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 107
+           AverageRGB: 146.4206
+             FileSize: 25397
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_12457_b33356642d_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 540
+           AverageRGB: 134.9276
+             FileSize: 34888
+                Width: 233
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_12802_4707fcdca5_m.jpg'
+    MostFrequentColor: [8 8 8]
+       ColorFrequency: 870
+           AverageRGB: 96.3101
+             FileSize: 15490
+                Width: 240
+               Height: 155
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_12886_31c61461af_m.jpg'
+    MostFrequentColor: [251 251 251]
+       ColorFrequency: 38
+           AverageRGB: 131.4824
+             FileSize: 26164
+                Width: 154
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_12977_44ff7769b2_m.jpg'
+    MostFrequentColor: [91 128 206]
+       ColorFrequency: 233
+           AverageRGB: 91.7096
+             FileSize: 28102
+                Width: 180
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_13291_77c1afb661_m.jpg'
+    MostFrequentColor: [192 192 202]
+       ColorFrequency: 278
+           AverageRGB: 106.5291
+             FileSize: 14329
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_13581_64b6a41674_m.jpg'
+    MostFrequentColor: [4 8 9]
+       ColorFrequency: 125
+           AverageRGB: 106.7021
+             FileSize: 21424
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_13644_4f1d6740cb_m.jpg'
+    MostFrequentColor: [199 200 204]
+       ColorFrequency: 236
+           AverageRGB: 129.5335
+             FileSize: 26369
+                Width: 240
+               Height: 178
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_14025_57d9cb1adb_m.jpg'
+    MostFrequentColor: [241 255 255]
+       ColorFrequency: 192
+           AverageRGB: 120.5323
+             FileSize: 27922
+                Width: 240
+               Height: 162
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_14260_75a407a4f6_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 5438
+           AverageRGB: 56.0972
+             FileSize: 21544
+                Width: 240
+               Height: 181
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_14608_26ce2c6756_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 875
+           AverageRGB: 69.7192
+             FileSize: 26824
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_14657_c6c0b42cc4_m.jpg'
+    MostFrequentColor: [39 34 30]
+       ColorFrequency: 10
+           AverageRGB: 98.5214
+             FileSize: 38397
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_2005_f457af7566_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 8800
+           AverageRGB: 54.6204
+             FileSize: 14714
+                Width: 240
+               Height: 183
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_2046_374a53c012_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 1006
+           AverageRGB: 110.7947
+             FileSize: 37217
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_2376_8b385217b8_m.jpg'
+    MostFrequentColor: [8 8 8]
+       ColorFrequency: 246
+           AverageRGB: 65.3915
+             FileSize: 32038
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_2810_4f32a33297_m.jpg'
+    MostFrequentColor: [191 196 199]
+       ColorFrequency: 259
+           AverageRGB: 120.8439
+             FileSize: 13960
+                Width: 240
+               Height: 178
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_2985_b959fb3486_m.jpg'
+    MostFrequentColor: [18 20 17]
+       ColorFrequency: 271
+           AverageRGB: 91.7303
+             FileSize: 18473
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_3360_3390d8e373_m.jpg'
+    MostFrequentColor: [0 0 2]
+       ColorFrequency: 66
+           AverageRGB: 112.4796
+             FileSize: 31003
+                Width: 240
+               Height: 184
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_3687_3385d39b78_m.jpg'
+    MostFrequentColor: [185 217 255]
+       ColorFrequency: 76
+           AverageRGB: 120.8403
+             FileSize: 41689
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_400_a54a552acf_m.jpg'
+    MostFrequentColor: [184 191 199]
+       ColorFrequency: 95
+           AverageRGB: 104.8292
+             FileSize: 13393
+                Width: 240
+               Height: 165
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_4040_f61a92164f_m.jpg'
+    MostFrequentColor: [136 135 130]
+       ColorFrequency: 147
+           AverageRGB: 118.6596
+             FileSize: 34251
+                Width: 240
+               Height: 206
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_4398_84c48364b1_m.jpg'
+    MostFrequentColor: [92 64 52]
+       ColorFrequency: 161
+           AverageRGB: 90.7060
+             FileSize: 22070
+                Width: 240
+               Height: 174
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_4705_3bbb2c49bd_m.jpg'
+    MostFrequentColor: [1 1 1]
+       ColorFrequency: 416
+           AverageRGB: 111.4298
+             FileSize: 15382
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_5293_e08f5583a5_m.jpg'
+    MostFrequentColor: [253 253 253]
+       ColorFrequency: 661
+           AverageRGB: 112.4504
+             FileSize: 27534
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_5835_b9bab5ec32_m.jpg'
+    MostFrequentColor: [151 151 143]
+       ColorFrequency: 447
+           AverageRGB: 128.5481
+             FileSize: 17917
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_585_d973104bdf_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 685
+           AverageRGB: 127.1951
+             FileSize: 17756
+                Width: 240
+               Height: 168
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_6138_09f42704b9_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 3016
+           AverageRGB: 142.7735
+             FileSize: 17599
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_6241_c2f9eebded_m.jpg'
+    MostFrequentColor: [107 128 71]
+       ColorFrequency: 33
+           AverageRGB: 98.0279
+             FileSize: 29862
+                Width: 189
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_6242_71b5f4972d_m.jpg'
+    MostFrequentColor: [42 33 26]
+       ColorFrequency: 24
+           AverageRGB: 113.2760
+             FileSize: 33585
+                Width: 240
+               Height: 182
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_6793_1ef9182e3a_m.jpg'
+    MostFrequentColor: [134 52 0]
+       ColorFrequency: 36
+           AverageRGB: 126.5565
+             FileSize: 17846
+                Width: 240
+               Height: 158
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_6875_0158971a12_m.jpg'
+    MostFrequentColor: [166 166 166]
+       ColorFrequency: 524
+           AverageRGB: 137.2161
+             FileSize: 14475
+                Width: 240
+               Height: 192
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_7093_f476297f45_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 308
+           AverageRGB: 121.3491
+             FileSize: 47770
+                Width: 234
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_727_c26e8d50dc_m.jpg'
+    MostFrequentColor: [219 220 224]
+       ColorFrequency: 362
+           AverageRGB: 150.7631
+             FileSize: 11027
+                Width: 240
+               Height: 181
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_7359_449584eb9a_m.jpg'
+    MostFrequentColor: [13 12 20]
+       ColorFrequency: 80
+           AverageRGB: 96.7758
+             FileSize: 16830
+                Width: 240
+               Height: 180
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_7543_4fe06c84eb_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 20066
+           AverageRGB: 198.3537
+             FileSize: 29647
+                Width: 240
+               Height: 213
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_7784_8e6cae5e37_m.jpg'
+    MostFrequentColor: [229 232 225]
+       ColorFrequency: 283
+           AverageRGB: 145.6266
+             FileSize: 21350
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_7946_baf468cd71_m.jpg'
+    MostFrequentColor: [1 0 0]
+       ColorFrequency: 131
+           AverageRGB: 123.3969
+             FileSize: 33305
+                Width: 240
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_8308_299b3db45f_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 622
+           AverageRGB: 134.9544
+             FileSize: 38158
+                Width: 240
+               Height: 220
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_8327_9a792a5427_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 86
+           AverageRGB: 123.4069
+             FileSize: 28543
+                Width: 180
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_8610_b69f45001b_m.jpg'
+    MostFrequentColor: [255 255 255]
+       ColorFrequency: 1119
+           AverageRGB: 124.5058
+             FileSize: 22907
+                Width: 240
+               Height: 187
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_8758_f936d5ea26_m.jpg'
+    MostFrequentColor: [1 3 2]
+       ColorFrequency: 125
+           AverageRGB: 101.2172
+             FileSize: 32705
+                Width: 160
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_9083_b4541fed07_m.jpg'
+    MostFrequentColor: [0 0 0]
+       ColorFrequency: 1650
+           AverageRGB: 99.0994
+             FileSize: 17957
+                Width: 240
+               Height: 240
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_9814_3b88fd33e3_m.jpg'
+    MostFrequentColor: [39 56 48]
+       ColorFrequency: 49
+           AverageRGB: 93.9578
+             FileSize: 29226
+                Width: 240
+               Height: 173
+             BitDepth: 24
+               Format: 'jpg'
+
+             FileName: './naturals/zzz_9953_4bd3547c43_m.jpg'
+    MostFrequentColor: [153 152 209]
+       ColorFrequency: 53
+           AverageRGB: 99.8362
+             FileSize: 24254
+                Width: 240
+               Height: 160
+             BitDepth: 24
+               Format: 'jpg'
+
+Feature Matrix :
+  1.0e+005 *
+
+    0.4248    0.0054    0.0044    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.4283
+    0.3013    0.0055    0.0019    0.0002    0.0000    0.0002         0         0         0    0.7636
+    0.4499    0.0053    0.0047    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.3493
+    0.2031    0.0052    0.0029    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.1736
+    0.2120    0.0054    0.0030    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.3255
+    0.3836    0.0069    0.0040    0.0002    0.0000    0.0001         0         0         0    2.2554
+    0.1974    0.0055    0.0029    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.2498
+    0.3877    0.0055    0.0046    0.0002    0.0000    0.0024    0.0025    0.0025    0.0025    1.4716
+    0.4214    0.0050    0.0044    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.2352
+    0.2016    0.0050    0.0026    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    1.0222
+    0.4443    0.0053    0.0043    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.1247
+    0.3065    0.0055    0.0019    0.0002    0.0000    0.0002         0         0         0    0.7722
+    0.2917    0.0052    0.0042    0.0002    0.0000    0.0025    0.0025    0.0025    0.0025    1.5455
+    0.2106    0.0055    0.0029    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.2581
+    0.4215    0.0050    0.0046    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.3627
+    0.3079    0.0056    0.0020    0.0002    0.0000    0.0002         0         0         0    0.8481
+    0.3870    0.0070    0.0042    0.0002    0.0000    0.0001         0         0         0    2.4090
+    0.4926    0.0036    0.0041    0.0002    0.0000    0.0022    0.0025    0.0025    0.0025    0.2136
+    0.4250    0.0040    0.0035    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.4183
+    0.2095    0.0054    0.0031    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.3066
+    0.2098    0.0054    0.0030    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.2637
+    0.5989    0.0030    0.0052    0.0002    0.0000    0.0019    0.0020    0.0019    0.0025    0.0383
+    0.2633    0.0051    0.0028    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    0.8912
+    0.2037    0.0054    0.0029    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.2732
+    0.2054    0.0055    0.0027    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.1947
+    0.4205    0.0055    0.0045    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.3941
+    0.4738    0.0050    0.0043    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.0036
+    0.3864    0.0053    0.0033    0.0002    0.0000    0.0024    0.0025    0.0025    0.0025    0.7025
+    0.4768    0.0036    0.0040    0.0002    0.0000    0.0022    0.0025    0.0025    0.0025    0.2182
+    0.4147    0.0052    0.0045    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.4064
+    0.4109    0.0051    0.0044    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.2521
+    0.3065    0.0056    0.0023    0.0002    0.0000    0.0002         0         0         0    0.9896
+    0.4010    0.0055    0.0045    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.5540
+    0.4247    0.0054    0.0045    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.4515
+    0.4092    0.0050    0.0042    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.2039
+    0.4122    0.0054    0.0045    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.3630
+    0.2559    0.0054    0.0030    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    1.1164
+    0.4013    0.0051    0.0042    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.2233
+    0.4188    0.0055    0.0044    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.3805
+    0.3967    0.0051    0.0043    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.2332
+    0.4240    0.0056    0.0026    0.0002    0.0000    0.0002         0         0         0    1.0589
+    0.3856    0.0054    0.0043    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.4193
+    0.4432    0.0051    0.0046    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.2401
+    0.1986    0.0053    0.0030    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.2452
+    0.4863    0.0036    0.0041    0.0002    0.0000    0.0022    0.0025    0.0025    0.0025    0.3244
+    0.3357    0.0040    0.0026    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    0.2752
+    0.4728    0.0036    0.0040    0.0002    0.0000    0.0022    0.0025    0.0025    0.0025    0.2264
+    0.3131    0.0055    0.0025    0.0002    0.0000    0.0002         0         0         0    1.0786
+    0.5894    0.0042    0.0043    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    1.1093
+    1.3116    0.0055    0.0096    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    3.9544
+    0.3924    0.0044    0.0032    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    0.8892
+    0.2034    0.0053    0.0030    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.2890
+    0.3056    0.0051    0.0028    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    0.7819
+    0.3968    0.0050    0.0047    0.0002    0.0000    0.0023    0.0025    0.0025    0.0025    1.3919
+    0.1991    0.0036    0.0031    0.0002    0.0000    0.0020    0.0025    0.0025    0.0025    0.1596
+    0.3610    0.0042    0.0026    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.6024
+    0.5310    0.0083    0.0037    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    1.9565
+    0.6144    0.0090    0.0037    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    2.4539
+    0.4343    0.0048    0.0037    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    0.8167
+    0.5338    0.0058    0.0041    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    1.4130
+    0.1743    0.0033    0.0030    0.0002    0.0000    0.0024    0.0025    0.0025    0.0024    0.0395
+    0.2107    0.0043    0.0040    0.0002    0.0000    0.0006    0.0000    0.0000    0.0000    0.8795
+    0.3694    0.0038    0.0047    0.0002    0.0000    0.0018    0.0021    0.0020    0.0018    0.8937
+    0.2606    0.0034    0.0021    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.4481
+    0.5328    0.0049    0.0029    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.7778
+    0.8255    0.0077    0.0039    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    1.3719
+    0.5824    0.0085    0.0033    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    1.7155
+    0.6368    0.0065    0.0043    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    1.8107
+    0.1826    0.0037    0.0031    0.0002    0.0000    0.0024    0.0026    0.0026    0.0025    0.3400
+    0.5840    0.0060    0.0039    0.0002    0.0000    0.0022    0.0023    0.0025    0.0025    0.8454
+    0.3122    0.0041    0.0024    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.6373
+    0.2627    0.0046    0.0029    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    0.8437
+    0.2444    0.0032    0.0023    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.4870
+    0.6052    0.0050    0.0046    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    1.3655
+    0.3728    0.0045    0.0025    0.0002    0.0000    0.0022    0.0026    0.0026    0.0026    0.6541
+    0.7309    0.0049    0.0054    0.0002    0.0000    0.0023    0.0026    0.0026    0.0025    0.1163
+    0.5074    0.0061    0.0052    0.0002    0.0000    0.0024    0.0025    0.0025    0.0025    0.1233
+    0.2606    0.0034    0.0021    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.4481
+    0.1660    0.0037    0.0034    0.0002    0.0000    0.0022    0.0025    0.0025    0.0025    0.4493
+    0.1660    0.0037    0.0034    0.0002    0.0000    0.0022    0.0025    0.0025    0.0025    0.4493
+    0.1660    0.0037    0.0034    0.0002    0.0000    0.0022    0.0025    0.0025    0.0025    0.4493
+    0.3526    0.0045    0.0027    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.7453
+    0.6810    0.0051    0.0058    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    2.0840
+    0.5798    0.0050    0.0051    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    0.1992
+    0.2606    0.0034    0.0021    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.4481
+    0.2606    0.0034    0.0021    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.4481
+    0.6235    0.0041    0.0048    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    1.3281
+    0.3623    0.0045    0.0027    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.7143
+    0.2381    0.0035    0.0034    0.0002    0.0000    0.0024    0.0026    0.0025    0.0025    0.1770
+    0.5432    0.0072    0.0036    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    1.4984
+    0.1712    0.0038    0.0035    0.0002    0.0000    0.0024    0.0026    0.0026    0.0025    0.9058
+    0.7274    0.0058    0.0047    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    1.2765
+    0.5477    0.0029    0.0051    0.0002    0.0000    0.0020         0    0.0002         0    0.0088
+    0.6730    0.0082    0.0047    0.0002    0.0000    0.0020    0.0019    0.0019    0.0025    1.8274
+    0.6218    0.0052    0.0041    0.0002    0.0000    0.0023    0.0026    0.0026    0.0026    0.9830
+    0.5478    0.0082    0.0030    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    1.6586
+    1.1137    0.0068    0.0059    0.0002    0.0000    0.0023    0.0025    0.0024    0.0025    1.4804
+    0.4032    0.0048    0.0039    0.0002    0.0000    0.0017    0.0017    0.0017    0.0021    0.7280
+    0.4574    0.0044    0.0031    0.0002    0.0000    0.0024    0.0026    0.0026    0.0026    0.8040
+    0.3524    0.0079    0.0030    0.0002    0.0000    0.0025    0.0026    0.0026    0.0026    1.8510
+    0.8368    0.0044    0.0051    0.0002    0.0000    0.0018    0.0020    0.0016    0.0014    0.0793
+    0.0504    0.0055    0.0045    0.0000    0.0001    0.0001    0.0001    0.0001    0.0001    0.7596
+    0.0504    0.0055    0.0045    0.0000    0.0001    0.0001    0.0001    0.0001    0.0001    0.7596
+    0.0504    0.0055    0.0045    0.0000    0.0001    0.0001    0.0001    0.0001    0.0001    0.7596
+    0.0504    0.0055    0.0045    0.0000    0.0001    0.0001    0.0001    0.0001    0.0001    0.7596
+    0.0853    0.0050    0.0045    0.0000    0.0001    0.0001    0.0001    0.0001    0.0001    0.4212
+    0.0853    0.0050    0.0045    0.0000    0.0001    0.0001    0.0001    0.0001    0.0001    0.4212
+    0.0853    0.0050    0.0045    0.0000    0.0001    0.0001    0.0001    0.0001    0.0001    0.4212
+    0.0853    0.0050    0.0045    0.0000    0.0001    0.0001    0.0001    0.0001    0.0001    0.4212
+    0.0853    0.0050    0.0045    0.0000    0.0001    0.0001    0.0001    0.0001    0.0001    0.4212
+    0.0485    0.0037    0.0028    0.0001    0.0001    0.0024    0.0025    0.0025    0.0025    0.1488
+    0.0587    0.0050    0.0010    0.0005    0.0000    0.4204    0.6366    0.4741    0.2075    0.0933
+    0.0678    0.0026    0.0024    0.0001    0.0000    0.0003    0.0003    0.0003    0.0003    0.2048
+    0.0435    0.0026    0.0024    0.0001    0.0000    0.0001         0         0         0    0.1388
+    0.2293    0.0015    0.0024    0.0002    0.0000    0.0020    0.0025    0.0024    0.0022    0.0019
+    0.1885    0.0016    0.0024    0.0002    0.0000    0.0015    0.0008    0.0012    0.0015    0.0028
+    0.2063    0.0024    0.0018    0.0002    0.0000    0.0012    0.0011    0.0013    0.0014    0.0011
+    0.1697    0.0024    0.0016    0.0002    0.0000    0.0007    0.0001    0.0001    0.0000    0.0053
+    0.2115    0.0024    0.0016    0.0002    0.0000    0.0006    0.0006    0.0006    0.0006    0.0004
+    0.3723    0.0021    0.0024    0.0002    0.0000    0.0009    0.0026    0.0025    0.0026    0.0004
+    0.1870    0.0018    0.0024    0.0002    0.0000    0.0013    0.0020    0.0021    0.0020    0.0048
+    0.2922    0.0024    0.0018    0.0002    0.0000    0.0014    0.0012    0.0014    0.0014    0.0001
+    0.2577    0.0023    0.0024    0.0002    0.0000    0.0008    0.0002    0.0001    0.0004    0.0260
+    0.2769    0.0024    0.0016    0.0002    0.0000    0.0013    0.0026    0.0026    0.0026    0.0010
+    0.2595    0.0024    0.0019    0.0002    0.0000    0.0009    0.0004    0.0007    0.0002    0.0003
+    0.4167    0.0024    0.0020    0.0002    0.0000    0.0008    0.0000         0         0    0.0005
+    0.3378    0.0018    0.0024    0.0002    0.0000    0.0010    0.0014    0.0015    0.0016    0.0010
+    0.2370    0.0024    0.0016    0.0002    0.0000    0.0014    0.0000         0         0    0.0003
+    0.2963    0.0024    0.0024    0.0002    0.0000    0.0009    0.0000    0.0000    0.0000    0.0109
+    0.2007    0.0024    0.0024    0.0002    0.0000    0.0009         0         0         0    0.1328
+    0.1641    0.0016    0.0024    0.0002    0.0000    0.0005         0         0         0    0.0725
+    0.2547    0.0024    0.0017    0.0002    0.0000    0.0008    0.0007    0.0008    0.0010    0.0002
+    0.3185    0.0019    0.0024    0.0002    0.0000    0.0010         0         0         0    0.0592
+    0.2692    0.0024    0.0013    0.0002    0.0000    0.0013    0.0025    0.0026    0.0025    0.0067
+    0.2346    0.0024    0.0018    0.0002    0.0000    0.0012    0.0026    0.0026    0.0026    0.0063
+    0.1824    0.0024    0.0016    0.0002    0.0000    0.0012    0.0023    0.0022    0.0021    0.0022
+    0.3871    0.0024    0.0018    0.0002    0.0000    0.0012    0.0000         0         0    0.0015
+    0.2418    0.0018    0.0024    0.0002    0.0000    0.0010    0.0012    0.0012    0.0013    0.0021
+    0.2983    0.0024    0.0018    0.0002    0.0000    0.0011    0.0025    0.0025    0.0025    0.0280
+    0.3055    0.0024    0.0015    0.0002    0.0000    0.0013         0         0         0    0.0018
+    0.3570    0.0024    0.0018    0.0002    0.0000    0.0010    0.0008    0.0005    0.0003    0.0020
+    0.3776    0.0024    0.0016    0.0002    0.0000    0.0011    0.0026    0.0025    0.0026    0.0004
+    0.2197    0.0024    0.0018    0.0002    0.0000    0.0015    0.0004    0.0014    0.0025    0.0002
+    0.2713    0.0024    0.0016    0.0002    0.0000    0.0009    0.0001    0.0001    0.0001    0.0030
+    0.3521    0.0019    0.0024    0.0002    0.0000    0.0014    0.0021    0.0024    0.0023    0.0062
+    0.2046    0.0024    0.0016    0.0002    0.0000    0.0014    0.0026    0.0025    0.0026    0.0008
+    0.2172    0.0024    0.0016    0.0002    0.0000    0.0012    0.0005    0.0007    0.0014    0.0005
+    0.1384    0.0023    0.0024    0.0002    0.0000    0.0009         0         0         0    0.0473
+    0.3512    0.0015    0.0024    0.0002    0.0000    0.0014    0.0026    0.0026    0.0026    0.0043
+    0.3160    0.0024    0.0024    0.0002    0.0000    0.0014    0.0026    0.0026    0.0026    0.0351
+    0.3256    0.0024    0.0024    0.0002    0.0000    0.0009         0         0         0    0.0099
+    0.3380    0.0024    0.0016    0.0002    0.0000    0.0013    0.0015    0.0016    0.0019    0.0004
+    0.3931    0.0024    0.0016    0.0002    0.0000    0.0011         0         0    0.0010    0.0002
+    0.2006    0.0024    0.0015    0.0002    0.0000    0.0010         0         0         0    0.0019
+    0.4182    0.0019    0.0024    0.0002    0.0000    0.0007         0         0         0    0.0616
+    0.2907    0.0018    0.0024    0.0002    0.0000    0.0012    0.0026    0.0026    0.0025    0.0008
+    0.2211    0.0016    0.0024    0.0002    0.0000    0.0010    0.0026    0.0026    0.0026    0.0034
+    0.3964    0.0024    0.0017    0.0002    0.0000    0.0013    0.0022    0.0023    0.0025    0.0005
+    0.2573    0.0018    0.0024    0.0002    0.0000    0.0009    0.0001    0.0001    0.0001    0.0004
+    0.2083    0.0024    0.0016    0.0002    0.0000    0.0016    0.0020    0.0023    0.0025    0.0005
+    0.1973    0.0024    0.0015    0.0002    0.0000    0.0010         0         0         0    0.0813
+    0.1078    0.0013    0.0024    0.0002    0.0000    0.0013    0.0026    0.0026    0.0026    0.0058
+    0.2867    0.0024    0.0016    0.0002    0.0000    0.0009         0         0         0    0.0091
+    0.1456    0.0024    0.0018    0.0002    0.0000    0.0008    0.0013    0.0008    0.0004    0.0067
+    0.3255    0.0024    0.0018    0.0002    0.0000    0.0009         0         0         0    0.0172
+    0.2546    0.0024    0.0016    0.0002    0.0000    0.0011    0.0002    0.0002    0.0002    0.0001
+    0.4505    0.0021    0.0024    0.0002    0.0000    0.0010    0.0000         0         0    0.0002
+    0.2906    0.0024    0.0018    0.0002    0.0000    0.0010    0.0002    0.0002    0.0002    0.0022
+    0.3071    0.0018    0.0024    0.0002    0.0000    0.0011    0.0001    0.0001    0.0001    0.0011
+    0.1570    0.0024    0.0016    0.0002    0.0000    0.0018    0.0019    0.0019    0.0017    0.0007
+    0.3200    0.0024    0.0018    0.0002    0.0000    0.0010    0.0022    0.0025    0.0025    0.0018
+    0.2851    0.0022    0.0024    0.0002    0.0000    0.0014    0.0000    0.0000    0.0000    0.0092
+    0.2540    0.0024    0.0018    0.0002    0.0000    0.0015    0.0026    0.0026    0.0026    0.0011
+    0.3489    0.0023    0.0024    0.0002    0.0000    0.0013    0.0026    0.0026    0.0026    0.0054
+    0.1549    0.0024    0.0015    0.0002    0.0000    0.0010    0.0001    0.0001    0.0001    0.0087
+    0.2616    0.0015    0.0024    0.0002    0.0000    0.0013    0.0025    0.0025    0.0025    0.0004
+    0.2810    0.0018    0.0024    0.0002    0.0000    0.0009    0.0009    0.0013    0.0021    0.0023
+    0.1433    0.0024    0.0016    0.0002    0.0000    0.0011    0.0019    0.0019    0.0020    0.0028
+    0.2142    0.0024    0.0018    0.0002    0.0000    0.0011    0.0000    0.0001    0.0001    0.0013
+    0.2637    0.0024    0.0018    0.0002    0.0000    0.0013    0.0020    0.0020    0.0020    0.0024
+    0.2792    0.0024    0.0016    0.0002    0.0000    0.0012    0.0024    0.0026    0.0026    0.0019
+    0.2154    0.0024    0.0018    0.0002    0.0000    0.0006         0         0         0    0.0544
+    0.2682    0.0024    0.0018    0.0002    0.0000    0.0007         0         0         0    0.0088
+    0.3840    0.0024    0.0018    0.0002    0.0000    0.0010    0.0004    0.0003    0.0003    0.0001
+    0.1471    0.0024    0.0018    0.0002    0.0000    0.0005         0         0         0    0.0880
+    0.3722    0.0024    0.0018    0.0002    0.0000    0.0011    0.0026    0.0026    0.0026    0.0101
+    0.3204    0.0024    0.0018    0.0002    0.0000    0.0007    0.0001    0.0001    0.0001    0.0025
+    0.1396    0.0024    0.0018    0.0002    0.0000    0.0012    0.0019    0.0020    0.0020    0.0026
+    0.1847    0.0024    0.0016    0.0002    0.0000    0.0009    0.0002    0.0002    0.0002    0.0027
+    0.3100    0.0024    0.0018    0.0002    0.0000    0.0011         0         0    0.0000    0.0007
+    0.4169    0.0024    0.0018    0.0002    0.0000    0.0012    0.0019    0.0022    0.0026    0.0008
+    0.1339    0.0024    0.0017    0.0002    0.0000    0.0010    0.0018    0.0019    0.0020    0.0010
+    0.3425    0.0024    0.0021    0.0002    0.0000    0.0012    0.0014    0.0014    0.0013    0.0015
+    0.2207    0.0024    0.0017    0.0002    0.0000    0.0009    0.0009    0.0006    0.0005    0.0016
+    0.1538    0.0024    0.0016    0.0002    0.0000    0.0011    0.0000    0.0000    0.0000    0.0042
+    0.2753    0.0024    0.0018    0.0002    0.0000    0.0011    0.0025    0.0025    0.0025    0.0066
+    0.1792    0.0024    0.0018    0.0002    0.0000    0.0013    0.0015    0.0015    0.0014    0.0045
+    0.1776    0.0024    0.0017    0.0002    0.0000    0.0013    0.0026    0.0026    0.0026    0.0069
+    0.1760    0.0024    0.0016    0.0002    0.0000    0.0014    0.0026    0.0026    0.0026    0.0302
+    0.2986    0.0019    0.0024    0.0002    0.0000    0.0010    0.0011    0.0013    0.0007    0.0003
+    0.3358    0.0024    0.0018    0.0002    0.0000    0.0011    0.0004    0.0003    0.0003    0.0002
+    0.1785    0.0024    0.0016    0.0002    0.0000    0.0013    0.0013    0.0005         0    0.0004
+    0.1447    0.0024    0.0019    0.0002    0.0000    0.0014    0.0017    0.0017    0.0017    0.0052
+    0.4777    0.0023    0.0024    0.0002    0.0000    0.0012    0.0026    0.0026    0.0026    0.0031
+    0.1103    0.0024    0.0018    0.0002    0.0000    0.0015    0.0022    0.0022    0.0022    0.0036
+    0.1683    0.0024    0.0018    0.0002    0.0000    0.0010    0.0001    0.0001    0.0002    0.0008
+    0.2965    0.0024    0.0021    0.0002    0.0000    0.0020    0.0026    0.0026    0.0026    0.2007
+    0.2135    0.0024    0.0016    0.0002    0.0000    0.0015    0.0023    0.0023    0.0022    0.0028
+    0.3331    0.0024    0.0024    0.0002    0.0000    0.0012    0.0000         0         0    0.0013
+    0.3816    0.0024    0.0022    0.0002    0.0000    0.0013    0.0026    0.0026    0.0026    0.0062
+    0.2854    0.0018    0.0024    0.0002    0.0000    0.0012    0.0026    0.0026    0.0026    0.0009
+    0.2291    0.0024    0.0019    0.0002    0.0000    0.0012    0.0026    0.0026    0.0026    0.0112
+    0.3271    0.0016    0.0024    0.0002    0.0000    0.0010    0.0000    0.0000    0.0000    0.0013
+    0.1796    0.0024    0.0024    0.0002    0.0000    0.0010         0         0         0    0.0165
+    0.2923    0.0024    0.0017    0.0002    0.0000    0.0009    0.0004    0.0006    0.0005    0.0005
+    0.2425    0.0024    0.0016    0.0002    0.0000    0.0010    0.0015    0.0015    0.0021    0.0005
+
+New Classes(SVM) : 
+     0
+     0
+     1
+     1
+
+New Classes (Naive Bayes)
+     0
+     0
+     0
+     1
