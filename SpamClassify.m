@@ -33,12 +33,12 @@ function ret = SpamClassify()
     end
     
     
-    %Getting feature
+    %Getting features
     [matrix,classes] = getFeatureMatrix(spaminfo,natinfo);
     disp('Feature Matrix :');
     disp(matrix);
     
-    % ------------ SVM --------------------
+    % ------------ SVM -------------------------------------
     
     %Send data to training function to train the data using SVM
     %The 'trainedData' variable contains a SVM struct object with all the
@@ -53,7 +53,7 @@ function ret = SpamClassify()
     disp('New Classes(SVM) : ');
     disp(newClasses);
     
-    %--------------Naive Bayes ------------------   
+    %--------------Naive Bayes -----------------------------
     
     %Train the data using Naive Bayes
     trainedDataNB = trainNB(matrix,classes);
@@ -61,7 +61,7 @@ function ret = SpamClassify()
     %Classify the images using Naive Bayes classifier
     newClassesNB = classifyNB(trainedDataNB,newData);
     disp('New Classes (Naive Bayes)');
-    disp(newClassesNB);    
+    disp(newClassesNB);          
     
     ret = 'Processed';    
 end
@@ -168,3 +168,4 @@ end
 function newClasses = classifyNB(nb,newData)
     newClasses = predict(nb,newData);
 end
+
